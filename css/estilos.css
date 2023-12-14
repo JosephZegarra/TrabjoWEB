@@ -1,0 +1,14 @@
+main>.container 
+{
+    padding: 30px 0;
+}
+
+
+.containerForm{
+width: 29%;
+margin: auto; /* Esto centrará horizontalmente el formulario */
+padding: 20px;
+border: 1px solid #ccc;
+background-color: #fff;
+border-radius: 15px;
+}
